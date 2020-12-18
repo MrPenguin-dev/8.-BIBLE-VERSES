@@ -1,9 +1,14 @@
-.main--h1 {
+.section {
+  padding: 15px;
+}
+
+.section--h1 {
   text-align: center;
 }
 
 .section--paragraph {
   font-size: 20px;
+  padding: 5px;
 }
 
 .section--bold{
